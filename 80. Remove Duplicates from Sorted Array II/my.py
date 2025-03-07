@@ -17,3 +17,5 @@ class Solution:
                 k-=1
 
         return idx
+
+# Works even for unsorted 
