@@ -7,3 +7,6 @@ class Solution:
                 mxp += prices[i] - prices[i-1]                    
         
         return mxp
+
+
+# Greedy Algorithn
